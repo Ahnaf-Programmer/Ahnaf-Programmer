@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ahnaf-Programmer
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C, HTML, Python, CSS.
+- 🌱 I’m currently learning C++, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I study in class 6th.
 
 <!---
