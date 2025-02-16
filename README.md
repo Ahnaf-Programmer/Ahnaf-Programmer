@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS and C++
 - 📫 E-mail: contactahnafshariar@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: J!mpwf!b!gfnbmf-!obnfe!#Bgsjob#/ (Encrypted)
+- ⚡ Fun fact:   J!mpwf!b!gfnbmf-!obnfe!#Bgsjob#/ (Encrypted)
 
 <!---
 Ahnaf-Programmer/Ahnaf-Programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
