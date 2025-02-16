@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ahnaf-Programmer
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++, C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ahnaf Shariar
+- 👀 I’m interested in Science, Cars and Electronics.
+- 🌱 I’m currently learning JS and C++
+- 📫 E-mail: contactahnafshariar@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I study in class 6th.
+- ⚡ Fun fact: J!mpwf!b!gfnbmf-!obnfe!#Bgsjob#/ (Encrypted)
 
 <!---
 Ahnaf-Programmer/Ahnaf-Programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
